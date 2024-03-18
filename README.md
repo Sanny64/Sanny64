@@ -6,6 +6,8 @@ I'm pretty new to coding, but currently working on:
 2. JavaScript (for Discord)
 3. HTML, CSS
 4. Python
+5. Java
+6. C
 
 In my free time, I`m a discord server developer, gamer, drummer and uni hockey player.
 
