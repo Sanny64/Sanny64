@@ -9,7 +9,7 @@ Atm I'm working with:
 
 In my free time, I`m a discord server developer and admin, gamer and event host for friends. 
 
-I hope we come along greatly! Good coding to you <3
+I hope we come along greatly!
 
 <!---
 Sanny64/Sanny64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
