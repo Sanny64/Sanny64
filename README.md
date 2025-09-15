@@ -28,12 +28,15 @@ I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service
 ## My current website
 Link: Deployment in Progress
 
-## Sanny as a person
+## Sanny in private
+
+I would describe myself as selectively outgoing, philosophically and politically interested and goal/solution oriented.
+
 In my free time I like to play games, bake and organize events for friends :)
 
 ---
 
-### I hope we come along greatly and happy coding!
+### I hope we come along greatly!
 
 <!---
 Sanny64/Sanny64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
