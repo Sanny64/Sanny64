@@ -14,23 +14,27 @@ I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service
   
   - **Data Scientist** and **Fullstack Python** developer
 
-## Private Public Projects
+## Personal Public Projects
 1. PROSCRUM - Golf-Handicap-Calculator: [PROSCRUM Github](https://github.com/Sanny64/PROSCRUM) hosted at [Golf-Handicap-Calculator](http://164.30.73.144/login) 
-  - Scrum Master and PL in a scrum student environment (6 contributors)
+    - Scrum Master and PL in a scrum student environment (6 contributors)
+  
+2. SEO - Surface Evaluation Ordering: [SEO Github](https://github.com/Sanny64/SurfaceEvaluationOrdering) hosted at *coming soon*
+    - Dev, UI-Design, Concept (solo project)
    
 3. SAU - Student Assistant Utility: [ASE25 Github](https://github.com/Agile-Software-Engineering-25) hosted at [SAU Portal](https://sau-portal.de/) 
-  - Product Owner in a scaled scrum student environment (120 contributors)
+    - Product Owner in a scaled scrum student environment (120 contributors)
 
 ## My first ever website
 [Github TelekomProvadis](https://github.com/Sanny64/TelekomProvadis)
   - I made this during my first semester of studying computer science with 2 friends.
 
 ## My current website
-Link: Deployment in Progress
+Link: *coming soon*
 
 ## Sanny in private
 
 I would describe myself as selectively outgoing, philosophically and politically interested and goal/solution oriented.
+I also enjoy to
 
 In my free time I like to play games, bake and organize events for friends :)
 
