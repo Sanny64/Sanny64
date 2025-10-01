@@ -2,7 +2,7 @@
 
 A 21y/o dual B.Sc **Computer Science** student from Germany.  
 
-I mainly focus on **agile project management** but I also love to code.
+I mainly focus on **agile project management** and **team leading** but I also love to code.
 
 ## Work
 
@@ -18,7 +18,7 @@ I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service
 1. PROSCRUM - Golf-Handicap-Calculator: [PROSCRUM Github](https://github.com/Sanny64/PROSCRUM) hosted at [Golf-Handicap-Calculator](http://164.30.73.144/login) 
     - Scrum Master and PL in a scrum student environment (6 contributors)
   
-2. SEO - Surface Evaluation Ordering: [SEO Github](https://github.com/Sanny64/SurfaceEvaluationOrdering) hosted at *coming soon*
+2. SEO - Surface Evaluation Ordering: [SEO Github](https://github.com/Sanny64/SurfaceEvaluationOrdering) hosted at [SurfaceEvaluationOrdering](https://www.sanny64.de/seo) (coming soon)
     - Dev, UI-Design, Concept (solo project)
    
 3. SAU - Student Assistant Utility: [ASE25 Github](https://github.com/Agile-Software-Engineering-25) hosted at [SAU Portal](https://sau-portal.de/) 
@@ -29,14 +29,13 @@ I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service
   - I made this during my first semester of studying computer science with 2 friends.
 
 ## My current website
-Link: *coming soon*
+Link: [Sanny64](https://www.sanny64.de) (coming soon)
 
 ## Sanny in private
 
 I would describe myself as selectively outgoing, philosophically and politically interested and goal/solution oriented.
-I also enjoy to
 
-In my free time I like to play games, bake and organize events for friends :)
+In my free time I like to play games, bake and organize/host events for friends :)
 
 ---
 
