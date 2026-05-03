@@ -1,21 +1,23 @@
 # Hi, I'm **Sanny**
 
-A 21y/o dual B.Sc **Computer Science** student from Germany.  
+A 22y/o dual B.Sc **Computer Science** student from Germany.  
 
 I mainly focus on **agile project management** and **team leading** but I also love to code.
 
 ## Work
 
-Currently I am working for the **Deutsche Telekom IT GmbH** and we are creating an internal **ServiceNow-solution** in an international Scrum Team.
+For the time being I'm looking for a dual study program to finish my bachelor's degree.
+
+I have worked for the **Deutsche Telekom IT GmbH**. There I helped creating an internal **ServiceNow-solution** in an international Scrum Team.
   
   - **JavaScript** Software Engineering and **ServiceNow DevOps**
 
 I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service to enhance the process of planning fiber rollout in Germany.
   
-  - **Data Scientist** and **Fullstack Python** developer
+  - **Data Engineering** and **Python Pandas Backend** as well as **Python TKinter Frontend** development.
 
 ## Personal Public Projects
-1. PROSCRUM - Golf-Handicap-Calculator: [PROSCRUM Github](https://github.com/Sanny64/PROSCRUM) hosted at [Golf-Handicap-Calculator](http://164.30.73.144/login) 
+1. PROSCRUM - Golf-Handicap-Calculator: [PROSCRUM Github](https://github.com/Sanny64/PROSCRUM) hosted at [Golf-Handicap-Calculator](http://164.30.73.144) 
     - Scrum Master and PL in a scrum student environment (6 contributors)
   
 2. SEO - Surface Evaluation Ordering: [SEO Github](https://github.com/Sanny64/SurfaceEvaluationOrdering) hosted at [SurfaceEvaluationOrdering](https://www.sanny64.de/seo) (coming soon)
@@ -25,17 +27,17 @@ I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service
     - Product Owner in a scaled scrum student environment (120 contributors)
 
 ## My first ever website
-[Github TelekomProvadis](https://github.com/Sanny64/TelekomProvadis)
-  - I made this during my first semester of studying computer science with 2 friends.
+[Github TelekomProvadis](https://github.com/Sanny64/TelekomProvadis) hosted at [Sanny64 - Guess the Number](http://www.sanny64.de/first-website/index.html) and [sanny64.github.io](https://sanny64.github.io/TelekomProvadis/)
+  - I made this during my first semester of studying computer science with 2 friends. 
 
 ## My current website
-Link: [Sanny64](https://www.sanny64.de) (coming soon)
+Link: [Sanny64](https://www.sanny64.de) (wip)
 
 ## Sanny in private
 
-I would describe myself as selectively outgoing, philosophically and politically interested and goal/solution oriented.
+I would describe myself as ambivert, political, team oriented and kind. Solidarity the people around me to me is one of the most important things. 
 
-In my free time I like to play games, bake and organize/host events for friends :)
+In my free time I like to play games, bake and organize/host events for friends or go out with them :)
 
 ---
 
