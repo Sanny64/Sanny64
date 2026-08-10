@@ -1,18 +1,19 @@
 # Hi, I'm **Sanny**
 
-A 22y/o dual B.Sc **Computer Science** student from Germany.  
+A 22y/o former dual B.Sc **Computer Science** student from Germany.  
 
-I mainly focus on **agile project management** and **team leading** but I also love to code.
+I mainly focus on **agile project management** and **team leading** but I also love to code in JS, TSX, Python.
 
 ## Work
 
-For the time being I'm looking for a dual study program to finish my bachelor's degree.
+For the time being I'm looking for dual study program and praxis partner to finish my bachelors degree. 
+If you are hiring, I'd would love to do a B.Sc. Business Informatics study program with you!!
 
-I have worked for the **Deutsche Telekom IT GmbH**. There I helped creating an internal **ServiceNow-solution** in an international Scrum Team.
+I the past, I worked for the **Deutsche Telekom IT GmbH**. There I helped creating an internal **ServiceNow-ITSM** in an international Scrum Team.
   
-  - **JavaScript** Software Engineering and **ServiceNow DevOps**
+  - **ServiceNow** JavaScript Software Engineering and **DevOps**
 
-I have also worked for the **Deutsche Telekom Technik GmbH**, creating a service to enhance the process of planning fiber rollout in Germany.
+I have also worked for the **Deutsche Telekom Technik GmbH**, creating a program to enhance the process of planning fiber rollout in Germany.
   
   - **Data Engineering** and **Python Pandas Backend** as well as **Python TKinter Frontend** development.
 
@@ -35,9 +36,9 @@ Link: [Sanny64](https://www.sanny64.de) (wip)
 
 ## Sanny in private
 
-I would describe myself as ambivert, political, team oriented and kind. Solidarity the people around me to me is one of the most important things. 
+I would describe myself as ambivert, politically interested, team oriented and kind. Solidarity with and for all, is what I go by. 
 
-In my free time I like to play games, bake and organize/host events for friends or go out with them :)
+In my free time I like to play games, bake cakes and organize/host events for friends or go out with them :)
 
 ---
 
