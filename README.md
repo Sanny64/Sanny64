@@ -6,7 +6,7 @@ I mainly focus on **agile project management** and **team leading** but I also l
 
 ## Work
 
-For the time being I'm looking for dual study program and praxis partner to finish my bachelors degree. 
+For the time being I'm looking for a dual study program and praxis partner to finish my bachelors degree. 
 If you are hiring, I'd would love to do a B.Sc. Business Informatics study program with you!!
 
 I the past, I worked for the **Deutsche Telekom IT GmbH**. There I helped creating an internal **ServiceNow-ITSM** in an international Scrum Team.
